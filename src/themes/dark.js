@@ -6,7 +6,7 @@ import commonSettings from "./global.js";
 // then set the values in darkTheme using the global color variables
 
 const darkTheme = {
-  color: "#FCFCFC",
+  color: "#ffe89d",
   gold: "#F8CC82",
   gray: "#A3A3A3",
   textHighlightColor: "#abb2b2",
