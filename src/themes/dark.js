@@ -24,7 +24,7 @@ const darkTheme = {
     "brightness(0) saturate(100%) invert(84%) sepia(49%) saturate(307%) hue-rotate(326deg) brightness(106%) contrast(92%)",
   primaryButtonColor: "#333333",
   primaryButtonBG: "#F4D092",
-  primaryButtonHoverBG: "#abb2b2",
+  primaryButtonHoverBG: "#ffde86",
   secondaryButtonHoverBG: "rgba(54, 56, 64, 1)",
   outlinedPrimaryButtonHoverBG: "#F8CC82",
   outlinedPrimaryButtonHoverColor: "#333333",
